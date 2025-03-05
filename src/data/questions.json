@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Software is defined as?",
+        "options": ["set of programs, documentation & configuration of data", "set of programs", "documentation and configuration of data", "None of the mentioned"],
+        "correctoptionIndex": 0},
+        { "title": "What is Software Engineering?",
+        "options": ["Designing a software", "Testing a software", "Application of engineering principles to the design a software", "None of the above"],
+        "correctoptionIndex": 2},
+        { "title": "Who is the father of Software Engineering?",
+        "options": ["Margaret Hamilton", "Watts S. Humphrey", "Alan Turing", "Boris Beizer"],
+        "correctoptionIndex": 1},
+        { "title": "What are the features of Software Code?",
+        "options": ["simplicity", "Accessibility","Modularity", " All of the above"],
+        "correctoptionIndex": 2},
+        { "title": "is a software development activity that is not a part of software processes",
+        "options": ["Validation", "Specification", "Development", "Dependence"],
+        "correctoptionIndex": 3}
+        
+]
